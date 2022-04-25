@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myterminal-CLI", "CocoaDI\myterminal-CLI.csproj", "{A1C3045C-429E-4E4E-9B62-EFD2D67DEAAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3DEC3F8-E30F-4C98-8FB3-9C506A85CFC6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C3045C-429E-4E4E-9B62-EFD2D67DEAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C3045C-429E-4E4E-9B62-EFD2D67DEAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C3045C-429E-4E4E-9B62-EFD2D67DEAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C3045C-429E-4E4E-9B62-EFD2D67DEAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89A213B-A353-4A8A-9B55-457577131710}
+	EndGlobalSection
+EndGlobal

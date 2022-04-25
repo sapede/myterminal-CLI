@@ -1,0 +1,4 @@
+A:\repos\CocoaDI\CocoaDI\bin\Debug\net6.0\win10-x64\publish\CocoaDI.pdb
+A:\repos\CocoaDI\CocoaDI\bin\Debug\net6.0\win10-x64\publish\sni.dll
+A:\repos\CocoaDI\CocoaDI\bin\Debug\net6.0\win10-x64\publish\e_sqlite3.dll
+A:\repos\CocoaDI\CocoaDI\bin\Debug\net6.0\win10-x64\publish\CocoaDI.exe

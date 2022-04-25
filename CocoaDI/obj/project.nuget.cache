@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gUVwUEklegWl7odKVdGUSTh/Yr7URTw+T2HFwu/DTRkHjpdaIM6K7R9tAwnuPiDqkaah/KLeZmiRAxL5AYuunA==",
+  "dgSpecHash": "I+2CUrmJoP5ocfMUU+LEuk1UnWmw+1JyQKAzMviNvxSxWMpIfVCacMsoOgm/UiNeVKZjiqTW+Dnk87RdmiQnYw==",
   "success": true,
-  "projectFilePath": "A:\\repos\\CocoaDI\\CocoaDI\\myterminal-CLI.csproj",
+  "projectFilePath": "A:\\repos\\myterminal-CLI\\CocoaDI\\myterminal-CLI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\consoleappframework\\4.0.6\\consoleappframework.4.0.6.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

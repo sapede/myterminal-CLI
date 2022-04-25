@@ -6495,11 +6495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\repos\\CocoaDI\\CocoaDI\\myterminal-CLI.csproj",
+      "projectUniqueName": "A:\\repos\\myterminal-CLI\\CocoaDI\\myterminal-CLI.csproj",
       "projectName": "myterminal-CLI",
-      "projectPath": "A:\\repos\\CocoaDI\\CocoaDI\\myterminal-CLI.csproj",
+      "projectPath": "A:\\repos\\myterminal-CLI\\CocoaDI\\myterminal-CLI.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "A:\\repos\\CocoaDI\\CocoaDI\\obj\\",
+      "outputPath": "A:\\repos\\myterminal-CLI\\CocoaDI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
